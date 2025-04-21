@@ -25,10 +25,11 @@
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <img width=50%; src="https://github-readme-stats.vercel.app/api?username=RishabSharma&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width=50%; src="https://github-readme-streak-stats.herokuapp.com/?user=RishabSharma&theme=tokyonight" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishabSharma&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabSharma&theme=tokyonight" height="180px"/>
 </p>
+
 
 ---
 
