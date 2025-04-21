@@ -18,8 +18,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,figma,git,github,vscode,photoshop," />
 </p>
+
 ---
 
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishabSharma&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabSharma&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
 
 ### 📫 Connect with Me
 
@@ -37,8 +45,8 @@
 
 ---
 
-### 📈 GitHub Stats
+### 💬 Random Dev Quote
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabSharma&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabSharma&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
