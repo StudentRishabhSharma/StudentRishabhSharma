@@ -1,4 +1,7 @@
-<h2>Hello, I'm Rishabh Sharma</h2>
+<h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hello! I'm Rishabh Sharma
+</h1>
+
 
 🎓 MCA Student | 💻Web Developer | ☕ Java Programmer  
 📍 Based in Delhi, India  
@@ -15,7 +18,7 @@
 ---
 
 ### 🛠️ Languages & Tools:
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,figma,git,github,vscode,photoshop," />
 </p>
 
@@ -50,3 +53,4 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
+
